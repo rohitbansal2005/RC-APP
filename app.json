@@ -1,0 +1,18 @@
+{
+    "id": "f0e2c8f5-3ec8-4204-82ff-e82454c06ac8",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.44.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Rohit Kumar Bansal",
+        "homepage": "https://github.com/rohitbansal2005",
+        "support": "https://github.com/rohitbansal2005"
+    },
+    "name": "Rocketapp",
+    "nameSlug": "rocketapp",
+    "classFile": "RocketappApp.ts",
+    "description": "A Rocket Chat app that tracks mentions, responds to users and integrates with external logging APIs.",
+    "implements": [
+        "IUIKitInteractionHandler"
+    ]
+}

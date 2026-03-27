@@ -1,0 +1,4 @@
+{
+    "poll_command_description": "Create a poll with options",
+    "poll_command_params_example": "Best language? | C++ | JS | Python"
+}
