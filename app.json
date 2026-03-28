@@ -11,7 +11,7 @@
     "name": "Rocketapp",
     "nameSlug": "rocketapp",
     "classFile": "RocketappApp.ts",
-    "description": "A Rocket Chat app that tracks mentions, responds to users and integrates with external logging APIs.",
+    "description": "Interactive polls (/poll) and English grammar fixes (/grammar) via LanguageTool for Rocket.Chat.",
     "implements": [
         "IUIKitInteractionHandler"
     ]

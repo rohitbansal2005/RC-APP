@@ -1,4 +1,8 @@
 {
     "poll_command_description": "Create a poll with options",
-    "poll_command_params_example": "Best language? | C++ | JS | Python"
+    "poll_command_params_example": "Best language? | C++ | JS | Python",
+    "grammar_command_description": "Fix English grammar and spelling (LanguageTool)",
+    "grammar_command_params_example": "I has a apple and she go to school",
+    "activity_command_description": "Show most active members by recent messages in this room",
+    "activity_command_params_example": "500"
 }
